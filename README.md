@@ -11,26 +11,55 @@
 
 ## 🛠️ Tecnologias
 
-<div align="center">
+### 🎨 Frontend
+<div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+### ⚙️ Backend
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
 
-<div align="center">
+### 🗄️ Bancos de Dados
+<div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+</div>
+
+### 🛒 E-commerce & CMS
+<div align="left">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+</div>
+
+### 🧪 Testes & QA
+<div align="left">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/K6-7D4CDB?style=for-the-badge&logo=k6&logoColor=white" alt="K6" />
+  <img src="https://img.shields.io/badge/Appium-00D4FF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+</div>
+
+### 🎨 Design & Marketing
+<div align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Ads" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Ads" />
 </div>
 
 ---
@@ -44,53 +73,11 @@
 - 📱 **Mobile** que conecta pessoas
 - 🚀 **Tecnologia** que transforma vidas
 
-## 💼 Experiência
-
-**🚀 Desenvolvedor Júnior** - Colmeia Soluções em Tecnologia | *março 2025 - Atual*
-- Desenvolvimento em NestJS, MongoDB e React
-- Construção de APIs RESTful
-
-**🛒 Desenvolvedor Shopify e WordPress** - Simples Inovação | *fevereiro 2025 - Atual*
-- Customização de temas Shopify
-- Criação de sites WordPress com Elementor
-
-**🧪 Estagiário QA** - Colmeia Tech | *novembro 2024 - março 2025*
-- Automação de testes com Cypress
-- Documentação de APIs com Postman
-
-**🎨 UI/UX Designer** - Autônomo | *dezembro 2022 - junho 2024*
-- Interfaces para e-commerce
-- Design otimizado para conversão
-
-**📊 Gestor de Tráfego** - Autônomo | *maio 2022 - junho 2024*
-- Google Ads, Facebook Ads, TikTok Ads
-- Foco em ROI e otimização
-
-## 🎓 Formação
-
-**🎯 Full Stack Development** - Digital College | *agosto 2024 - Atual*
-
-**💻 Análise e Desenvolvimento de Sistemas** - Estácio | *fevereiro 2021 - Atual*
-
-## 🚀 Projetos
-
-**🌟 [Portfolio Pessoal](https://daviilucasdev.vercel.app)** - React, TypeScript, Vercel
-- Interface moderna e responsiva
-- Performance otimizada
-
-**🛒 Projetos E-commerce** - Shopify, WordPress, WooCommerce
-- Lojas virtuais completas
-- UX otimizada para vendas
-
-**🧪 Automação de Testes** - Cypress, Postman, K6
-- Testes automatizados E2E
-- Documentação de APIs
-
 ---
 
 ## 🌐 Redes Sociais
 
-<div align="center">
+<div align="left">
   <a href="https://daviilucasdev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -108,10 +95,6 @@
 ---
 
 ## 📞 Entre em Contato
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Connect GIF" width="300" height="200"/>
-</div>
 
 **📧 Email:** [davilucas276bz_vo2@indeedemail.com](mailto:davilucas276bz_vo2@indeedemail.com)
 
